@@ -1,7 +1,7 @@
 {
-  "name": "sheriff-bot",
+  "name": "discord.gg/vesperaa",
   "version": "1.0.0",
-  "description": "Sheriff Departmanı FiveM Sorgu Botu",
+  "description": "vesperra id sxrgu",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
